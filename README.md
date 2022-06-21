@@ -1,4 +1,4 @@
-# NTHU CS4520 Introduction to Image Processing
+# NTHU CS4520 Introduction to Image Processing (Fall 2021)
 
 This repository contains my code for the 4 assignments in CS4520 Introduction to Image Processing, \
 taught by Prof. Chiou-Ting Hsu at National Tsing Hua University. \
